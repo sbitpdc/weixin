@@ -1,0 +1,12 @@
+*.pyc
+*~
+*.swp
+*.pem
+*.p12
+.idea/*
+debug.log
+*.tar.gz
+*.sqlite
+.DS_Store
+*.zip
+
